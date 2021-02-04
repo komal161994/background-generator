@@ -1,0 +1,14 @@
+body{
+  background-color: rosybrown;
+  border-style: groove;
+  border-radius: 5px;
+  margin: 25px 25px 25px 25px;
+  padding: 50px 50px 50px 50px;
+  width: 50%;
+  border: 5px solid black;
+  outline: dotted black 4px;
+  letter-spacing: 3px;
+  text-shadow:1px 1px;
+
+
+}
